@@ -34,6 +34,26 @@ footer{
 }
 
 
+.text{
+    padding: 20px;
+    border: 10px solid #ddd;
+}
+
+.campus{
+    padding: 20px;
+    border: 10px solid #ddd;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.question{
+    padding: 20px;
+    border: 10px solid #ddd;
+    margin-top: 10px;
+    text-align: center;
+}
+
+
 /* exercise 4  */
 .main-header {
     background-color: #AAD7D9;
