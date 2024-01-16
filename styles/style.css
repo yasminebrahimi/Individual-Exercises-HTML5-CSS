@@ -6,6 +6,7 @@ body{
 }
 
 
+
 a{
     color: #000;
     text-decoration: none;
@@ -24,6 +25,7 @@ a:visited{
 img{
     max-width: 100%;
     border: 1px solid #ddd;
+    background-color: gold;
 }
 
 footer{
@@ -88,4 +90,7 @@ footer{
     color: #666;
     font-size: 16px;
     line-height: 1.5;
-}
+} 
+
+
+
