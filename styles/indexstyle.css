@@ -19,7 +19,7 @@ section{
 .container{
      position: relative;
      width: 930px;
-     height: 660px;
+     height: 580px;
      padding: 20px;
      display: flex;
      flex-wrap: wrap;
